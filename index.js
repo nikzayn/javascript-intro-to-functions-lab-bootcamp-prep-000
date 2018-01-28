@@ -17,11 +17,11 @@ function sayHiToGrandma(string){
   else if(string.toUpperCase()===string){
     return "YES INDEED!"
   }
-  else if(string.toUpperCase()===string){
+  else if(string===string){
     return "I love you, too."
   }
   else{
-    return "hello"
+    return "Grandma is upset with you.!"
   }
   
 }
