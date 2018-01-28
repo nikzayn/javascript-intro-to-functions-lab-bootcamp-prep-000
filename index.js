@@ -23,5 +23,4 @@ function sayHiToGrandma(string){
   else{
     return "Grandma is upset with you.!"
   }
-  
 }
